@@ -1,3 +1,6 @@
+NOTE: For some reason unknown, openshift always removes this application several minutes later after it was created.
+====================================================================================================================
+
 This is an OpenShift quickstart for Tiny Tiny RSS.
 
 Creating an Openshift TT-RSS app:
